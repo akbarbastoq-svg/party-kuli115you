@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "party-kuli115you",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "party-kuli115you",
+			"database_id": "39ddac93-0d7f-44f2-b1b5-ab927b98e5c9"
+		}
+	]
+}
